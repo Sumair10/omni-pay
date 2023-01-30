@@ -27,4 +27,4 @@ export default function FaqsList() {
 }
 
 git add .
-git commit -m
+git commit
