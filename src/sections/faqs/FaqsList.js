@@ -27,4 +27,4 @@ export default function FaqsList() {
 }
 
 git add .
-git commit -m "landing"
+git commit -m ""
